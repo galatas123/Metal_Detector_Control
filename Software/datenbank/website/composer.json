@@ -1,0 +1,10 @@
+{
+    "name": "ohl/grover",
+    "description": "Drehkreuz",
+    "type": "library",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.27"
+    },
+    "license": "Ingram",
+    "minimum-stability": "stable"
+}
